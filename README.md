@@ -4,10 +4,10 @@
 
 ## Day2: 手势识别
 
-[手势识别](手势识别/README.md）
+Day2: [手势识别](./手势识别/README.md）
 
 ## Day3: 车牌识别
 
-[车牌识别](车牌识别/README.md）
+Day3: [车牌识别](./车牌识别/README.md）
 
 
