@@ -13,7 +13,6 @@
 | vgg16     | MIXUP     |   1.0   |
 | resnet18     | MIXUP     |  0.875    |
 
-> resnet没调好
 
 ### 1. vgg16
 ![](./vgg16.png)
