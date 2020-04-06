@@ -1,5 +1,11 @@
 # paddle_seven_days - day2：手势识别
 
+
+
+[notebook](./手势识别.ipynb)
+
+
+
 ## 1.说明
 - 应用了图像增强包：albumentations (pip install albumentations)
 - 基于resnet18 + 多种图像增强策略(flip, ricap, mixup, cutout)

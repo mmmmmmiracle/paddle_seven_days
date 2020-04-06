@@ -1,5 +1,11 @@
 # paddle_seven_days - day3 : 车牌识别
 
+
+
+[notebook](./车牌识别.ipynb)
+
+
+
 ## 1.实验结果
 |(ch_out) | data aug | acc |
 | -------- | -------- | -------- |
