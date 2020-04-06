@@ -16,7 +16,7 @@
 
 
 
-[day5: paddle hub](./paddle_hub/README.MD)
+[day5: paddle hub](./paddle_hub/README.md)
 
 
 
